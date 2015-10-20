@@ -1,0 +1,512 @@
+browserChrome:7544.0
+browserFirefox:6551.0
+browserIE:10774.0
+browserOther:592.0
+countryUnited States:23230.0
+deviceTypeDesktop:24221.0
+deviceTypeSmartphone:1277.0
+netspeedTypeCS_broadband:12358.0
+netspeedTypeCS_cable:7931.0
+netspeedTypeCS_mobile:961.0
+netspeedTypeCS_xdsl:3632.0
+osAndroid:1169.0
+osMac OS X:1448.0
+osOther:2732.0
+osWindows 7:15921.0
+osWindows 8:1461.0
+osWindows Vista:1136.0
+osWindows XP:1424.0
+spaceId1197116579:16928.0
+spaceId1197116580:2826.0
+spaceId1197116581:507.0
+spaceId1197116582:2252.0
+spaceId1197116591:534.0
+spaceId1197717056:2106.0
+browserChromecountryUnited States:6657.0
+browserFirefoxcountryUnited States:5793.0
+browserIEcountryUnited States:10213.0
+browserOthercountryUnited States:545.0
+browserChromedeviceTypeDesktop:6848.0
+browserChromedeviceTypeSmartphone:696.0
+browserFirefoxdeviceTypeDesktop:6549.0
+browserIEdeviceTypeDesktop:10774.0
+browserOtherdeviceTypeSmartphone:559.0
+browserChromenetspeedTypeCS_broadband:3695.0
+browserChromenetspeedTypeCS_cable:2392.0
+browserChromenetspeedTypeCS_xdsl:955.0
+browserFirefoxnetspeedTypeCS_broadband:3795.0
+browserFirefoxnetspeedTypeCS_cable:1778.0
+browserFirefoxnetspeedTypeCS_xdsl:768.0
+browserIEnetspeedTypeCS_broadband:4636.0
+browserIEnetspeedTypeCS_cable:3662.0
+browserIEnetspeedTypeCS_xdsl:1879.0
+browserChromeosAndroid:696.0
+browserChromeosMac OS X:744.0
+browserChromeosOther:633.0
+browserChromeosWindows 7:3995.0
+browserChromeosWindows XP:677.0
+browserFirefoxosMac OS X:701.0
+browserFirefoxosWindows 7:4007.0
+browserFirefoxosWindows XP:741.0
+browserIEosOther:1594.0
+browserIEosWindows 7:7884.0
+browserIEosWindows 8:972.0
+browserChromespaceId1197116579:5242.0
+browserChromespaceId1197116580:807.0
+browserChromespaceId1197116582:590.0
+browserChromespaceId1197717056:552.0
+browserFirefoxspaceId1197116579:3892.0
+browserFirefoxspaceId1197116580:646.0
+browserFirefoxspaceId1197116582:916.0
+browserIEspaceId1197116579:7257.0
+browserIEspaceId1197116580:1347.0
+browserIEspaceId1197116582:694.0
+browserIEspaceId1197717056:1096.0
+countryUnited StatesdeviceTypeDesktop:22028.0
+countryUnited StatesdeviceTypeSmartphone:1196.0
+countryUnited StatesnetspeedTypeCS_broadband:10738.0
+countryUnited StatesnetspeedTypeCS_cable:7761.0
+countryUnited StatesnetspeedTypeCS_mobile:833.0
+countryUnited StatesnetspeedTypeCS_xdsl:3321.0
+countryUnited StatesosAndroid:1110.0
+countryUnited StatesosMac OS X:1216.0
+countryUnited StatesosOther:2562.0
+countryUnited StatesosWindows 7:14525.0
+countryUnited StatesosWindows 8:1350.0
+countryUnited StatesosWindows Vista:1067.0
+countryUnited StatesosWindows XP:1212.0
+countryUnited StatesspaceId1197116579:15244.0
+countryUnited StatesspaceId1197116580:2654.0
+countryUnited StatesspaceId1197116582:2014.0
+countryUnited StatesspaceId1197717056:2051.0
+deviceTypeDesktopnetspeedTypeCS_broadband:11841.0
+deviceTypeDesktopnetspeedTypeCS_cable:7711.0
+deviceTypeDesktopnetspeedTypeCS_xdsl:3568.0
+deviceTypeSmartphonenetspeedTypeCS_broadband:516.0
+deviceTypeDesktoposMac OS X:1448.0
+deviceTypeDesktoposOther:2639.0
+deviceTypeDesktoposWindows 7:15921.0
+deviceTypeDesktoposWindows 8:1461.0
+deviceTypeDesktoposWindows Vista:1136.0
+deviceTypeDesktoposWindows XP:1424.0
+deviceTypeSmartphoneosAndroid:1169.0
+deviceTypeDesktopspaceId1197116579:15881.0
+deviceTypeDesktopspaceId1197116580:2760.0
+deviceTypeDesktopspaceId1197116582:2121.0
+deviceTypeDesktopspaceId1197116591:530.0
+deviceTypeDesktopspaceId1197717056:2080.0
+deviceTypeSmartphonespaceId1197116579:1040.0
+netspeedTypeCS_broadbandosMac OS X:1019.0
+netspeedTypeCS_broadbandosOther:980.0
+netspeedTypeCS_broadbandosWindows 7:8184.0
+netspeedTypeCS_broadbandosWindows XP:639.0
+netspeedTypeCS_cableosOther:1092.0
+netspeedTypeCS_cableosWindows 7:4841.0
+netspeedTypeCS_cableosWindows 8:585.0
+netspeedTypeCS_xdslosOther:514.0
+netspeedTypeCS_xdslosWindows 7:2103.0
+netspeedTypeCS_broadbandspaceId1197116579:8071.0
+netspeedTypeCS_broadbandspaceId1197116580:1251.0
+netspeedTypeCS_broadbandspaceId1197116582:1392.0
+netspeedTypeCS_broadbandspaceId1197717056:914.0
+netspeedTypeCS_cablespaceId1197116579:5262.0
+netspeedTypeCS_cablespaceId1197116580:995.0
+netspeedTypeCS_cablespaceId1197116582:523.0
+netspeedTypeCS_cablespaceId1197717056:725.0
+netspeedTypeCS_mobilespaceId1197116579:767.0
+netspeedTypeCS_xdslspaceId1197116579:2426.0
+osAndroidspaceId1197116579:946.0
+osMac OS XspaceId1197116579:1010.0
+osOtherspaceId1197116579:1870.0
+osWindows 7spaceId1197116579:10346.0
+osWindows 7spaceId1197116580:1753.0
+osWindows 7spaceId1197116582:1542.0
+osWindows 7spaceId1197717056:1401.0
+osWindows 8spaceId1197116579:975.0
+osWindows VistaspaceId1197116579:677.0
+osWindows XPspaceId1197116579:925.0
+browserChromecountryUnited StatesdeviceTypeDesktop:5994.0
+browserChromecountryUnited StatesdeviceTypeSmartphone:663.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktop:5791.0
+browserIEcountryUnited StatesdeviceTypeDesktop:10213.0
+browserOthercountryUnited StatesdeviceTypeSmartphone:524.0
+browserChromecountryUnited StatesnetspeedTypeCS_broadband:3082.0
+browserChromecountryUnited StatesnetspeedTypeCS_cable:2325.0
+browserChromecountryUnited StatesnetspeedTypeCS_xdsl:828.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadband:3177.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_cable:1732.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_xdsl:697.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadband:4295.0
+browserIEcountryUnited StatesnetspeedTypeCS_cable:3607.0
+browserIEcountryUnited StatesnetspeedTypeCS_xdsl:1769.0
+browserChromecountryUnited StatesosAndroid:663.0
+browserChromecountryUnited StatesosMac OS X:590.0
+browserChromecountryUnited StatesosOther:598.0
+browserChromecountryUnited StatesosWindows 7:3539.0
+browserChromecountryUnited StatesosWindows XP:545.0
+browserFirefoxcountryUnited StatesosMac OS X:625.0
+browserFirefoxcountryUnited StatesosWindows 7:3481.0
+browserFirefoxcountryUnited StatesosWindows XP:665.0
+browserIEcountryUnited StatesosOther:1502.0
+browserIEcountryUnited StatesosWindows 7:7481.0
+browserIEcountryUnited StatesosWindows 8:924.0
+browserChromecountryUnited StatesspaceId1197116579:4530.0
+browserChromecountryUnited StatesspaceId1197116580:733.0
+browserChromecountryUnited StatesspaceId1197116582:552.0
+browserChromecountryUnited StatesspaceId1197717056:533.0
+browserFirefoxcountryUnited StatesspaceId1197116579:3458.0
+browserFirefoxcountryUnited StatesspaceId1197116580:584.0
+browserFirefoxcountryUnited StatesspaceId1197116582:743.0
+browserIEcountryUnited StatesspaceId1197116579:6773.0
+browserIEcountryUnited StatesspaceId1197116580:1315.0
+browserIEcountryUnited StatesspaceId1197116582:672.0
+browserIEcountryUnited StatesspaceId1197717056:1078.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_broadband:3378.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_cable:2260.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_xdsl:918.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadband:3794.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_cable:1777.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_xdsl:768.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadband:4636.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_cable:3662.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_xdsl:1879.0
+browserChromedeviceTypeDesktoposMac OS X:744.0
+browserChromedeviceTypeDesktoposOther:633.0
+browserChromedeviceTypeDesktoposWindows 7:3995.0
+browserChromedeviceTypeDesktoposWindows XP:677.0
+browserChromedeviceTypeSmartphoneosAndroid:696.0
+browserFirefoxdeviceTypeDesktoposMac OS X:701.0
+browserFirefoxdeviceTypeDesktoposWindows 7:4007.0
+browserFirefoxdeviceTypeDesktoposWindows XP:741.0
+browserIEdeviceTypeDesktoposOther:1594.0
+browserIEdeviceTypeDesktoposWindows 7:7884.0
+browserIEdeviceTypeDesktoposWindows 8:972.0
+browserChromedeviceTypeDesktopspaceId1197116579:4699.0
+browserChromedeviceTypeDesktopspaceId1197116580:762.0
+browserChromedeviceTypeDesktopspaceId1197116582:510.0
+browserChromedeviceTypeDesktopspaceId1197717056:530.0
+browserChromedeviceTypeSmartphonespaceId1197116579:543.0
+browserFirefoxdeviceTypeDesktopspaceId1197116579:3890.0
+browserFirefoxdeviceTypeDesktopspaceId1197116580:646.0
+browserFirefoxdeviceTypeDesktopspaceId1197116582:916.0
+browserIEdeviceTypeDesktopspaceId1197116579:7257.0
+browserIEdeviceTypeDesktopspaceId1197116580:1347.0
+browserIEdeviceTypeDesktopspaceId1197116582:694.0
+browserIEdeviceTypeDesktopspaceId1197717056:1096.0
+browserChromenetspeedTypeCS_broadbandosMac OS X:551.0
+browserChromenetspeedTypeCS_broadbandosWindows 7:1980.0
+browserChromenetspeedTypeCS_cableosWindows 7:1319.0
+browserChromenetspeedTypeCS_xdslosWindows 7:504.0
+browserFirefoxnetspeedTypeCS_broadbandosWindows 7:2602.0
+browserFirefoxnetspeedTypeCS_cableosWindows 7:950.0
+browserIEnetspeedTypeCS_broadbandosOther:586.0
+browserIEnetspeedTypeCS_broadbandosWindows 7:3580.0
+browserIEnetspeedTypeCS_cableosOther:607.0
+browserIEnetspeedTypeCS_cableosWindows 7:2562.0
+browserIEnetspeedTypeCS_xdslosWindows 7:1262.0
+browserChromenetspeedTypeCS_broadbandspaceId1197116579:2609.0
+browserChromenetspeedTypeCS_cablespaceId1197116579:1614.0
+browserChromenetspeedTypeCS_xdslspaceId1197116579:648.0
+browserFirefoxnetspeedTypeCS_broadbandspaceId1197116579:2178.0
+browserFirefoxnetspeedTypeCS_broadbandspaceId1197116582:762.0
+browserFirefoxnetspeedTypeCS_cablespaceId1197116579:1056.0
+browserFirefoxnetspeedTypeCS_xdslspaceId1197116579:520.0
+browserIEnetspeedTypeCS_broadbandspaceId1197116579:3097.0
+browserIEnetspeedTypeCS_broadbandspaceId1197116580:567.0
+browserIEnetspeedTypeCS_cablespaceId1197116579:2509.0
+browserIEnetspeedTypeCS_xdslspaceId1197116579:1230.0
+browserChromeosAndroidspaceId1197116579:543.0
+browserChromeosMac OS XspaceId1197116579:592.0
+browserChromeosWindows 7spaceId1197116579:2684.0
+browserFirefoxosWindows 7spaceId1197116579:2311.0
+browserFirefoxosWindows 7spaceId1197116582:741.0
+browserIEosOtherspaceId1197116579:1094.0
+browserIEosWindows 7spaceId1197116579:5328.0
+browserIEosWindows 7spaceId1197116580:943.0
+browserIEosWindows 7spaceId1197717056:841.0
+browserIEosWindows 8spaceId1197116579:667.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadband:10269.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cable:7547.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdsl:3263.0
+countryUnited StatesdeviceTypeDesktoposMac OS X:1216.0
+countryUnited StatesdeviceTypeDesktoposOther:2479.0
+countryUnited StatesdeviceTypeDesktoposWindows 7:14525.0
+countryUnited StatesdeviceTypeDesktoposWindows 8:1350.0
+countryUnited StatesdeviceTypeDesktoposWindows Vista:1067.0
+countryUnited StatesdeviceTypeDesktoposWindows XP:1212.0
+countryUnited StatesdeviceTypeSmartphoneosAndroid:1110.0
+countryUnited StatesdeviceTypeDesktopspaceId1197116579:14264.0
+countryUnited StatesdeviceTypeDesktopspaceId1197116580:2596.0
+countryUnited StatesdeviceTypeDesktopspaceId1197116582:1887.0
+countryUnited StatesdeviceTypeDesktopspaceId1197717056:2025.0
+countryUnited StatesdeviceTypeSmartphonespaceId1197116579:974.0
+countryUnited StatesnetspeedTypeCS_broadbandosMac OS X:823.0
+countryUnited StatesnetspeedTypeCS_broadbandosOther:896.0
+countryUnited StatesnetspeedTypeCS_broadbandosWindows 7:7139.0
+countryUnited StatesnetspeedTypeCS_cableosOther:1064.0
+countryUnited StatesnetspeedTypeCS_cableosWindows 7:4758.0
+countryUnited StatesnetspeedTypeCS_cableosWindows 8:575.0
+countryUnited StatesnetspeedTypeCS_xdslosWindows 7:1932.0
+countryUnited StatesnetspeedTypeCS_broadbandspaceId1197116579:6928.0
+countryUnited StatesnetspeedTypeCS_broadbandspaceId1197116580:1109.0
+countryUnited StatesnetspeedTypeCS_broadbandspaceId1197116582:1183.0
+countryUnited StatesnetspeedTypeCS_broadbandspaceId1197717056:876.0
+countryUnited StatesnetspeedTypeCS_cablespaceId1197116579:5125.0
+countryUnited StatesnetspeedTypeCS_cablespaceId1197116580:987.0
+countryUnited StatesnetspeedTypeCS_cablespaceId1197116582:516.0
+countryUnited StatesnetspeedTypeCS_cablespaceId1197717056:721.0
+countryUnited StatesnetspeedTypeCS_mobilespaceId1197116579:659.0
+countryUnited StatesnetspeedTypeCS_xdslspaceId1197116579:2166.0
+countryUnited StatesosAndroidspaceId1197116579:900.0
+countryUnited StatesosMac OS XspaceId1197116579:848.0
+countryUnited StatesosOtherspaceId1197116579:1732.0
+countryUnited StatesosWindows 7spaceId1197116579:9328.0
+countryUnited StatesosWindows 7spaceId1197116580:1650.0
+countryUnited StatesosWindows 7spaceId1197116582:1346.0
+countryUnited StatesosWindows 7spaceId1197717056:1380.0
+countryUnited StatesosWindows 8spaceId1197116579:886.0
+countryUnited StatesosWindows VistaspaceId1197116579:620.0
+countryUnited StatesosWindows XPspaceId1197116579:769.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosMac OS X:1019.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosOther:952.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:8184.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows XP:639.0
+deviceTypeDesktopnetspeedTypeCS_cableosOther:1067.0
+deviceTypeDesktopnetspeedTypeCS_cableosWindows 7:4841.0
+deviceTypeDesktopnetspeedTypeCS_cableosWindows 8:585.0
+deviceTypeDesktopnetspeedTypeCS_xdslosOther:508.0
+deviceTypeDesktopnetspeedTypeCS_xdslosWindows 7:2103.0
+deviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:7669.0
+deviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116580:1216.0
+deviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116582:1326.0
+deviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197717056:909.0
+deviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:5079.0
+deviceTypeDesktopnetspeedTypeCS_cablespaceId1197116580:984.0
+deviceTypeDesktopnetspeedTypeCS_cablespaceId1197717056:725.0
+deviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:2370.0
+deviceTypeDesktoposMac OS XspaceId1197116579:1010.0
+deviceTypeDesktoposOtherspaceId1197116579:1789.0
+deviceTypeDesktoposWindows 7spaceId1197116579:10346.0
+deviceTypeDesktoposWindows 7spaceId1197116580:1753.0
+deviceTypeDesktoposWindows 7spaceId1197116582:1542.0
+deviceTypeDesktoposWindows 7spaceId1197717056:1401.0
+deviceTypeDesktoposWindows 8spaceId1197116579:975.0
+deviceTypeDesktoposWindows VistaspaceId1197116579:677.0
+deviceTypeDesktoposWindows XPspaceId1197116579:925.0
+deviceTypeSmartphoneosAndroidspaceId1197116579:946.0
+netspeedTypeCS_broadbandosMac OS XspaceId1197116579:694.0
+netspeedTypeCS_broadbandosOtherspaceId1197116579:700.0
+netspeedTypeCS_broadbandosWindows 7spaceId1197116579:5210.0
+netspeedTypeCS_broadbandosWindows 7spaceId1197116580:793.0
+netspeedTypeCS_broadbandosWindows 7spaceId1197116582:1050.0
+netspeedTypeCS_broadbandosWindows 7spaceId1197717056:663.0
+netspeedTypeCS_cableosOtherspaceId1197116579:708.0
+netspeedTypeCS_cableosWindows 7spaceId1197116579:3191.0
+netspeedTypeCS_cableosWindows 7spaceId1197116580:591.0
+netspeedTypeCS_xdslosWindows 7spaceId1197116579:1399.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadband:2784.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cable:2197.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdsl:795.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadband:3176.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cable:1731.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdsl:697.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadband:4295.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cable:3607.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdsl:1769.0
+browserChromecountryUnited StatesdeviceTypeDesktoposMac OS X:590.0
+browserChromecountryUnited StatesdeviceTypeDesktoposOther:598.0
+browserChromecountryUnited StatesdeviceTypeDesktoposWindows 7:3539.0
+browserChromecountryUnited StatesdeviceTypeDesktoposWindows XP:545.0
+browserChromecountryUnited StatesdeviceTypeSmartphoneosAndroid:663.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktoposMac OS X:625.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktoposWindows 7:3481.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktoposWindows XP:665.0
+browserIEcountryUnited StatesdeviceTypeDesktoposOther:1502.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 7:7481.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 8:924.0
+browserChromecountryUnited StatesdeviceTypeDesktopspaceId1197116579:4013.0
+browserChromecountryUnited StatesdeviceTypeDesktopspaceId1197116580:694.0
+browserChromecountryUnited StatesdeviceTypeDesktopspaceId1197717056:511.0
+browserChromecountryUnited StatesdeviceTypeSmartphonespaceId1197116579:517.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopspaceId1197116579:3456.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopspaceId1197116580:584.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopspaceId1197116582:743.0
+browserIEcountryUnited StatesdeviceTypeDesktopspaceId1197116579:6773.0
+browserIEcountryUnited StatesdeviceTypeDesktopspaceId1197116580:1315.0
+browserIEcountryUnited StatesdeviceTypeDesktopspaceId1197116582:672.0
+browserIEcountryUnited StatesdeviceTypeDesktopspaceId1197717056:1078.0
+browserChromecountryUnited StatesnetspeedTypeCS_broadbandosWindows 7:1677.0
+browserChromecountryUnited StatesnetspeedTypeCS_cableosWindows 7:1289.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadbandosWindows 7:2138.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_cableosWindows 7:929.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadbandosOther:552.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadbandosWindows 7:3313.0
+browserIEcountryUnited StatesnetspeedTypeCS_cableosOther:590.0
+browserIEcountryUnited StatesnetspeedTypeCS_cableosWindows 7:2530.0
+browserIEcountryUnited StatesnetspeedTypeCS_xdslosWindows 7:1202.0
+browserChromecountryUnited StatesnetspeedTypeCS_broadbandspaceId1197116579:2124.0
+browserChromecountryUnited StatesnetspeedTypeCS_cablespaceId1197116579:1559.0
+browserChromecountryUnited StatesnetspeedTypeCS_xdslspaceId1197116579:541.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadbandspaceId1197116579:1839.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadbandspaceId1197116582:596.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_cablespaceId1197116579:1024.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadbandspaceId1197116579:2812.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadbandspaceId1197116580:542.0
+browserIEcountryUnited StatesnetspeedTypeCS_cablespaceId1197116579:2461.0
+browserIEcountryUnited StatesnetspeedTypeCS_xdslspaceId1197116579:1127.0
+browserChromecountryUnited StatesosAndroidspaceId1197116579:517.0
+browserChromecountryUnited StatesosWindows 7spaceId1197116579:2318.0
+browserFirefoxcountryUnited StatesosWindows 7spaceId1197116579:2018.0
+browserFirefoxcountryUnited StatesosWindows 7spaceId1197116582:581.0
+browserIEcountryUnited StatesosOtherspaceId1197116579:1019.0
+browserIEcountryUnited StatesosWindows 7spaceId1197116579:4976.0
+browserIEcountryUnited StatesosWindows 7spaceId1197116580:920.0
+browserIEcountryUnited StatesosWindows 7spaceId1197717056:831.0
+browserIEcountryUnited StatesosWindows 8spaceId1197116579:627.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_broadbandosMac OS X:551.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:1980.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:1319.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7:504.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:2602.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:950.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadbandosOther:586.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:3580.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_cableosOther:607.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:2562.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7:1262.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:2374.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:1504.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:617.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:2177.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116582:762.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:1055.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:520.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:3097.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116580:567.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:2509.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:1230.0
+browserChromedeviceTypeDesktoposMac OS XspaceId1197116579:592.0
+browserChromedeviceTypeDesktoposWindows 7spaceId1197116579:2684.0
+browserChromedeviceTypeSmartphoneosAndroidspaceId1197116579:543.0
+browserFirefoxdeviceTypeDesktoposWindows 7spaceId1197116579:2311.0
+browserFirefoxdeviceTypeDesktoposWindows 7spaceId1197116582:741.0
+browserIEdeviceTypeDesktoposOtherspaceId1197116579:1094.0
+browserIEdeviceTypeDesktoposWindows 7spaceId1197116579:5328.0
+browserIEdeviceTypeDesktoposWindows 7spaceId1197116580:943.0
+browserIEdeviceTypeDesktoposWindows 7spaceId1197717056:841.0
+browserIEdeviceTypeDesktoposWindows 8spaceId1197116579:667.0
+browserChromenetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1360.0
+browserChromenetspeedTypeCS_cableosWindows 7spaceId1197116579:863.0
+browserFirefoxnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1462.0
+browserFirefoxnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:667.0
+browserFirefoxnetspeedTypeCS_cableosWindows 7spaceId1197116579:535.0
+browserIEnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:2375.0
+browserIEnetspeedTypeCS_cableosWindows 7spaceId1197116579:1784.0
+browserIEnetspeedTypeCS_xdslosWindows 7spaceId1197116579:832.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosMac OS X:823.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosOther:872.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:7139.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosOther:1041.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:4758.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 8:575.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7:1932.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:6561.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116580:1080.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116582:1121.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197717056:871.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:4947.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116580:977.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197717056:721.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:2115.0
+countryUnited StatesdeviceTypeDesktoposMac OS XspaceId1197116579:848.0
+countryUnited StatesdeviceTypeDesktoposOtherspaceId1197116579:1661.0
+countryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116579:9328.0
+countryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116580:1650.0
+countryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116582:1346.0
+countryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197717056:1380.0
+countryUnited StatesdeviceTypeDesktoposWindows 8spaceId1197116579:886.0
+countryUnited StatesdeviceTypeDesktoposWindows VistaspaceId1197116579:620.0
+countryUnited StatesdeviceTypeDesktoposWindows XPspaceId1197116579:769.0
+countryUnited StatesdeviceTypeSmartphoneosAndroidspaceId1197116579:900.0
+countryUnited StatesnetspeedTypeCS_broadbandosMac OS XspaceId1197116579:554.0
+countryUnited StatesnetspeedTypeCS_broadbandosOtherspaceId1197116579:634.0
+countryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:4491.0
+countryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116580:703.0
+countryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:868.0
+countryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197717056:647.0
+countryUnited StatesnetspeedTypeCS_cableosOtherspaceId1197116579:685.0
+countryUnited StatesnetspeedTypeCS_cableosWindows 7spaceId1197116579:3118.0
+countryUnited StatesnetspeedTypeCS_cableosWindows 7spaceId1197116580:590.0
+countryUnited StatesnetspeedTypeCS_xdslosWindows 7spaceId1197116579:1250.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosMac OS XspaceId1197116579:694.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosOtherspaceId1197116579:675.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:5210.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116580:793.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:1050.0
+deviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197717056:663.0
+deviceTypeDesktopnetspeedTypeCS_cableosOtherspaceId1197116579:691.0
+deviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:3191.0
+deviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116580:591.0
+deviceTypeDesktopnetspeedTypeCS_xdslosWindows 7spaceId1197116579:1399.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:1677.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:1289.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:2138.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:929.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosOther:552.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7:3313.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosOther:590.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7:2530.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7:1202.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:1902.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:1452.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:514.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:1838.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116582:596.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:1023.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116579:2812.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandspaceId1197116580:542.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cablespaceId1197116579:2461.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslspaceId1197116579:1127.0
+browserChromecountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116579:2318.0
+browserChromecountryUnited StatesdeviceTypeSmartphoneosAndroidspaceId1197116579:517.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116579:2018.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116582:581.0
+browserIEcountryUnited StatesdeviceTypeDesktoposOtherspaceId1197116579:1019.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116579:4976.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197116580:920.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 7spaceId1197717056:831.0
+browserIEcountryUnited StatesdeviceTypeDesktoposWindows 8spaceId1197116579:627.0
+browserChromecountryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1123.0
+browserChromecountryUnited StatesnetspeedTypeCS_cableosWindows 7spaceId1197116579:836.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1212.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:508.0
+browserFirefoxcountryUnited StatesnetspeedTypeCS_cableosWindows 7spaceId1197116579:520.0
+browserIEcountryUnited StatesnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:2150.0
+browserIEcountryUnited StatesnetspeedTypeCS_cableosWindows 7spaceId1197116579:1753.0
+browserIEcountryUnited StatesnetspeedTypeCS_xdslosWindows 7spaceId1197116579:773.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1360.0
+browserChromedeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:863.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1462.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:667.0
+browserFirefoxdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:535.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:2375.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:1784.0
+browserIEdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7spaceId1197116579:832.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosMac OS XspaceId1197116579:554.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosOtherspaceId1197116579:613.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:4491.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116580:703.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:868.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197717056:647.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosOtherspaceId1197116579:670.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:3118.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116580:590.0
+countryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7spaceId1197116579:1250.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1123.0
+browserChromecountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:836.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:1212.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116582:508.0
+browserFirefoxcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:520.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_broadbandosWindows 7spaceId1197116579:2150.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_cableosWindows 7spaceId1197116579:1753.0
+browserIEcountryUnited StatesdeviceTypeDesktopnetspeedTypeCS_xdslosWindows 7spaceId1197116579:773.0

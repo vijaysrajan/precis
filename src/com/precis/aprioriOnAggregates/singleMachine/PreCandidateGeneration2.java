@@ -1,0 +1,3 @@
+
+class PreCandidateGeneration2 {
+}
