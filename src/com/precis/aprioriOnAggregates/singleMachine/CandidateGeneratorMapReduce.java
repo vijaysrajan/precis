@@ -76,7 +76,8 @@ public class CandidateGeneratorMapReduce implements FeederToMapperIface {
     public void done() {
         try {
             for (ComparableBitSet comparableBitSet : this.set) {
-                this.writer.write(comparableBitSet.bitSet.toString()+"\n");
+                String s = comparableBitSet.bitSet.toString();
+                this.writer.write(s +"\n");
                 this.writer.flush();
             }
             this.writer.close();

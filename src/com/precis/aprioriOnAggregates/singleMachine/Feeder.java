@@ -13,6 +13,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 import java.nio.charset.Charset;
+import java.util.HashSet;
 
 
 
@@ -26,7 +27,7 @@ public class Feeder {
         private Integer maxNumberOfStages;
         private static List<String> unsortedList = null;
         private static String [] unsortedArray = null;
-        
+//        private static HashSet<String> reduceCandidates = new HashSet<String>();
 
         public Feeder(String schemaFile, double t, Integer maxNumberOfStages) throws IOException, FileNotFoundException{
                threshold = t;
@@ -58,6 +59,12 @@ public class Feeder {
             while (generatedCandidate > 0 && stage <= this.maxNumberOfStages) {
                 candidateFilename = "tmpCandidateFile" + stage.toString() + ".tmp";
                 this.generateCandidate(lastStageFilename, candidateFilename,stage);
+// strip candidates that do not qualify
+//              HashSet<String> previousStageCandidates = new HashSet<String>();
+// read from lastStageFilename into HashSet. Make sure that the BitSet version is saved as values
+//now pass candidate fileName to a function along with HashSet and for each candidate, generate nCn-1 options and see if all exists
+//write this to a new file that we will rename to the candidate file
+
                 System.out.println("stage " + stage + " candidate generation " + TimeCalculator.getDifference());
                 generatedCandidate = this.filterCandidates(candidateFilename, stage);
                 System.out.println("stage " + stage + " candidate filteration " + TimeCalculator.getDifference());
@@ -84,40 +91,10 @@ public class Feeder {
                     partFile = partition.generatePartitionFile();
                 }
 
-                //dont like this non java solution. Need a java Solution which is platform agnostic and efficient.
-                if (true == false) {
-                     String save_unique_cmd = "sort -u " + "unsorted_" + candidateFilename + " > " + candidateFilename;
-                     Process p = Runtime.getRuntime().exec(new String[]{"bash","-c",save_unique_cmd});
-                     int ret_code = -1;
-                     try {
-                         ret_code = p.waitFor();
-                     } catch (Exception e) {
-                         e.printStackTrace();
-                     }
-                 } else  {
-                    //read from unsorted file or just from an Array
-                    unsortedList = Files.readAllLines(Paths.get("unsorted_"+candidateFilename), Charset.defaultCharset()); 
-                    unsortedArray = new String[unsortedList.size()];
-                    unsortedArray = unsortedList.toArray(unsortedArray);
-                    Arrays.sort(unsortedArray);  //now unsortedArray is sorted
-                    writeArray(candidateFilename, unsortedArray);
-                 }
+                Util.sortFileAIntoFileB("unsorted_" + candidateFilename, candidateFilename);
             } catch (Exception e) {
                 e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
             }
-        }
-
-        private static void writeArray (String filename, String[]x) throws IOException{
-              BufferedWriter outputWriter = null;
-              outputWriter = new BufferedWriter(new FileWriter(filename));
-              for (int i = 0; i < x.length; i++) {
-                   outputWriter.write(x[i]+"");
-                   // Or:
-                   //outputWriter.write(Integer.toString(x[i]);
-                   outputWriter.newLine();
-              }
-              outputWriter.flush();  
-              outputWriter.close();  
         }
 
         public void generateCandidateWithoutPartition(String lastStageFilename, String candidateFilename) {

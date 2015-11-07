@@ -84,9 +84,9 @@ public class CandidateFilter implements FeederToMapperIface{
                        ComparableBitSet comparableBitSet1 = new ComparableBitSet(bitSet);
                        if (comparableBitSet1.compareTo(comparableBitSet)==0) {
                              metric = metric + Double.parseDouble(cols[1]);
-                             if (metric >= this.threshold) {
-                                   break;
-                             }
+                             //if (metric >= this.threshold) {
+                             //      break;
+                             //}
                        }
                }
         } catch (Exception e) {
