@@ -8,6 +8,6 @@ fi
 
 #java -Xmx6g -cp ../external_jars/commons-cli-1.2/commons-cli-1.2.jar: com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d dataFile -s schemaFile -t $1
 #java -Xmx6g -cp "precis.jar:../external_jars/commons-cli-1.2/*" com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d dataFile -s schemaFile -t $1
-java -Xmx10g  -jar "precis.jar" com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d $1 -s $2 -t $3
+java -Xmx2g  -jar "precis.jar" com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d $1 -s $2 -t $3
 
 

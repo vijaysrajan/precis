@@ -34,6 +34,10 @@ public class AnalyserStage1Mapper implements FeederToMapperIface {
 		StringBuilder sb = new StringBuilder();
 		try {
 			for (int i = 0; i < dims.size(); i++) {
+				//System.out.println ("length : " +   parts.length);
+				if (parts[i].equalsIgnoreCase("null") || parts[i].equalsIgnoreCase("unknown") || parts[i].equalsIgnoreCase("na") ) {
+					continue;
+				}
 				sb.append(dims.get(i));
 				sb.append(Util.separatorBetweenDimAndVal);
 				sb.append(parts[i]);

@@ -34,6 +34,7 @@ public class AnalyserStage1Reducer implements FeederToReducerIface  {
 
 		String [] _parts = rec.split (Util.separatorBetweenFields);
 		String [] parts  = _parts[0].split(Util.separatorBetweenDimAndVal);
+		//System.out.println ("rec = " + rec );
 
                 try {
                         sb = new StringBuilder();
