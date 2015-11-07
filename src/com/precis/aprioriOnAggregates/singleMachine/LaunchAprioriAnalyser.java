@@ -51,7 +51,7 @@ public class LaunchAprioriAnalyser {
                        schemaFile = line.getOptionValue( "s" );
 		               threshold = Double.parseDouble(line.getOptionValue( "t" ));
                     if (!line.hasOption("m")) {
-                        maxNumberOfStages = 1000000000;
+                        maxNumberOfStages = 20;
                     } else {
                         maxNumberOfStages = Integer.parseInt(line.getOptionValue("m"));
                     }

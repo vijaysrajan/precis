@@ -27,12 +27,14 @@ public class CandidateGeneratorMapReduce implements FeederToMapperIface {
     }
 
     public CandidateGeneratorMapReduce(String feedFilename, String outputFeedFilename, String dimMapping, String dimValMapping) throws Exception {
-        this.feedFilename = feedFilename;
+        this.feedFilename = feedFilename; 
         File file = new File(outputFeedFilename);
         if (!file.exists()) {
             file.createNewFile();
         }
         this.writer = new BufferedWriter(new FileWriter(file,true));
+
+        //this.writer = new BufferedWriter(new FileWriter(outputFeedFilename));
         this.dimLookupDict = DimLookupDict.generateMapFromMappingFiles(dimMapping,dimValMapping);
         this._res1   = new BitSet(dimLookupDict.getDimBitsetLength()+dimLookupDict.getValBitsetLength());
         this._res2   = new BitSet(dimLookupDict.getDimBitsetLength()+dimLookupDict.getValBitsetLength());

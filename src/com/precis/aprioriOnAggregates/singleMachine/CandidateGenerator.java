@@ -77,11 +77,6 @@ public class CandidateGenerator {
             lineIndex++;
         }
         bitsetOutputWriter.close();
-
-    }
-
-    public static void main(String args[]) {
-
     }
 
 }
