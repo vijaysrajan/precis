@@ -27,7 +27,6 @@ public class Feeder {
         private Integer maxNumberOfStages;
         private static List<String> unsortedList = null;
         private static String [] unsortedArray = null;
-//        private static HashSet<String> reduceCandidates = new HashSet<String>();
 
         public Feeder(String schemaFile, double t, Integer maxNumberOfStages) throws IOException, FileNotFoundException{
                threshold = t;
@@ -59,12 +58,6 @@ public class Feeder {
             while (generatedCandidate > 0 && stage <= this.maxNumberOfStages) {
                 candidateFilename = "tmpCandidateFile" + stage.toString() + ".tmp";
                 this.generateCandidate(lastStageFilename, candidateFilename,stage);
-// strip candidates that do not qualify
-//              HashSet<String> previousStageCandidates = new HashSet<String>();
-// read from lastStageFilename into HashSet. Make sure that the BitSet version is saved as values
-//now pass candidate fileName to a function along with HashSet and for each candidate, generate nCn-1 options and see if all exists
-//write this to a new file that we will rename to the candidate file
-
                 System.out.println("stage " + stage + " candidate generation " + TimeCalculator.getDifference());
                 generatedCandidate = this.filterCandidates(candidateFilename, stage);
                 System.out.println("stage " + stage + " candidate filteration " + TimeCalculator.getDifference());
