@@ -5,6 +5,7 @@ if [ $# -eq 0 ]
        exit 1;
 fi
 
+#This is the best way to run the code
 
 #java -Xmx6g -cp ../external_jars/commons-cli-1.2/commons-cli-1.2.jar: com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d dataFile -s schemaFile -t $1
 #java -Xmx6g -cp "precis.jar:../external_jars/commons-cli-1.2/*" com.precis.aprioriOnAggregates.singleMachine.LaunchAprioriAnalyser -d dataFile -s schemaFile -t $1
